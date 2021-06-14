@@ -51,7 +51,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 </p>
 
 
-### Deploy To Heroku 📡</h4>
+### Deploy To Heroku 📡
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/hackelite01/HEGroupMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
@@ -59,7 +59,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 
  [Generate String Session](https://replit.com/@hackelite011/HEGroupMusicBot)
  
-### Features✄1�7
+### Features✨
 
 - Thumbnail Support
 - Playlist Support
@@ -78,7 +78,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 - Python 3.7+
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
-### ⚄1�7 Self-hosting (For Devs) 
+### Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/hackelite01/HEGroupMusicBot
@@ -92,7 +92,7 @@ $ npm i -g npm
 $ python(3) -m HEMusicBot
 ```
 
-### Commands for Group 🛠
+### Commands for Group 🛠️
 #### For all in group
 
 - `/play <song name>` - play song you requested
@@ -117,7 +117,7 @@ $ python(3) -m HEMusicBot
 - `/userbotleave` - remove assistant from your chat
 - `/reload` - Refresh admin list
 
-### Commands for Channel Music Play 🛠
+### Commands for Channel Music Play 🛠️
 For linked group admins only:
 - `/cplay <song name>` - play song you requested
 - `/cplay <reply to audio>` - play replied file
@@ -140,7 +140,7 @@ If you donlt like to play in linked channel:
  4. add helper to channel
  5. Simply send commands in your group.
 
-### Commands for Sudo Users ⚔️
+### Commands for Sudo Users 👻
 - `/userbotleaveall` - remove assistant from all chats
 - `/gcast <reply to message>` - globally brodcast replied message to all chats
 - `/pmpermit [on/off]` - enable/disable pmpermit message
