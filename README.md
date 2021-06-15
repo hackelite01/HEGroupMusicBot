@@ -18,7 +18,7 @@
 <a href="https://github.com/hackelite01"><img title="Stars" src="https://img.shields.io/github/stars/hackelite01/lockhacker?color=red&style=flat-square"></a>
 <a href="https://github.com/hackelite01"><img title="Forks" src="https://img.shields.io/github/forks/hackelite01/lockhacker?color=red&style=flat-square"></a>
 <a href="https://github.com/hackelite01"><img title="Watching" src="https://img.shields.io/github/watchers/hackelite01/lockhacker?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/hackelite01"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<a href="https://github.com/hackelite01"><img title="Licence" src="https://img.shields.io/badge/License-GPL3-red.svg"></a>
 </p>
 
 
