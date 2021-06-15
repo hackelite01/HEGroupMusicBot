@@ -1,15 +1,15 @@
 import os
 from HEMusicBot.config import SOURCE_CODE,ASSISTANT_NAME,PROJECT_NAME,SUPPORT_GROUP,UPDATES_CHANNEL
 class Messages():
-      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✄1�7 Send me /help for more info."
+      START_MSG = "**Hello 👻‘‹ [{}](tg://user?id={})!**\n\nðŸ¤– I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✔️ Send me /help for more info."
       HELP_MSG = [
         ".",
 f"""
-**Hey 👋 Welcome back to {PROJECT_NAME}
+**Hey 👻‘‹ Welcome back to {PROJECT_NAME}
 
-⚪️ {PROJECT_NAME} can play music in your group's voice chat as well as channel voice chats
+🔵 {PROJECT_NAME} can play music in your group's voice chat as well as channel voice chats
 
-⚪️ Assistant name >> @{ASSISTANT_NAME}\n\nClick next for instructions**
+🔵 Assistant name >> @{ASSISTANT_NAME}\n\nClick next for instructions**
 """,
 
 f"""
@@ -27,7 +27,7 @@ f"""
 
 **Commands**
 
-**=>> Song Playing 🎧**
+**=>> Song Playing  🎧**
 
 - /play: Play song using youtube music
 - /play [yt url] : Play the given yt url
@@ -35,7 +35,7 @@ f"""
 - /dplay: Play song via deezer
 - /splay: Play song via jio saavn
 
-**=>> Playback ⏄1�7**
+**=>> Playback ⏭️**
 
 - /player: Open Settings menu of player
 - /skip: Skips the current track
@@ -49,9 +49,9 @@ f"""
 """,
         
 f"""
-**=>> Channel Music Play 🛠**
+**=>> Channel Music Play 🛠️**
 
-⚪️ For linked group admins only:
+âšªï¸ For linked group admins only:
 
 - /cplay [song name] - play song you requested
 - /cdplay [song name] - play song you requested via deezer
@@ -67,7 +67,7 @@ f"""
 
 channel is also can be used instead of c ( /cplay = /channelplay )
 
-⚪️ If you donlt like to play in linked group:
+🤖 If you don't like to play in linked group:
 
 1) Get your channel ID.
 2) Create a group with tittle: Channel Music: your_channel_id
@@ -77,12 +77,12 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 """,
 
 f"""
-**=>> More tools 🧑‍🔄1�7**
+**=>> More tools 🛠️**
 
 - /reload: Updates admin info of your group. Try if bot isn't recognize admin
 - /userbotjoin: Invite @{ASSISTANT_NAME} Userbot to your chat
 
-**=>> Commands for Sudo Users ⚔️**
+**=>> Commands for Sudo Users 🛠️**
 
  - /userbotleaveall - remove assistant from all chats
  - /gcast <reply to message> - globally brodcast replied message to all chats
